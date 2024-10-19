@@ -1,4 +1,4 @@
-# URL: https://67e2bf5bd8d147efa0.gradio.live
+# URL: https://290c508cb7e1dd68e7.gradio.live/
 # Repo: https://github.com/zhangzi-TZ/CS5330Lab2
 # Import necessary libraries
 from skimage.io import imread
