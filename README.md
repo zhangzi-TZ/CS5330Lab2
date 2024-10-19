@@ -1,5 +1,7 @@
 # Gradio Demo Instructions for Lab2
 
+Available Link: https://290c508cb7e1dd68e7.gradio.live/
+
 Execute the `<Lab2_Gradio_Demo_Jinghan Gao_Tianhao Zhang.py>` file. After execution, both a local URL and a public URL will be generated in the terminal. The public URL will remain active for 72 hours.
 
 Ensure the following packages are installed in your local environment before running the .py file:
